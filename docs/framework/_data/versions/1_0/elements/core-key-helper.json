@@ -1,0 +1,11 @@
+{
+  "name": "core-key-helper",
+  "description": "\n",
+  "location": "1.0/components/core-overlay/core-key-helper.html",
+  "inherited": {
+    "methods": [],
+    "attributes": [],
+    "events": [],
+    "properties": []
+  }
+}

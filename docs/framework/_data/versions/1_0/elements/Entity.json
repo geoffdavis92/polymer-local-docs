@@ -1,0 +1,11 @@
+{
+  "name": "Entity",
+  "description": "**Undocumented**",
+  "location": "1.0/components/paper-input/test/paper-input.html",
+  "inherited": {
+    "methods": [],
+    "attributes": [],
+    "events": [],
+    "properties": []
+  }
+}
